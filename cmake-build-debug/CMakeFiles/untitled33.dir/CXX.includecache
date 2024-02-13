@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ahmetselim/CLionProjects/untitled33/main.cpp
+iostream
+-
+random
+-
+unistd.h
+-
+ncurses.h
+-
+
